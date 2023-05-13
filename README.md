@@ -6,6 +6,8 @@ The idea is to create a new subclass for each error type and to return additiona
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
+For updates, please follow [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
+
 
 ## How to run this project
 ```
